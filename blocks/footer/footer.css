@@ -1,0 +1,28 @@
+.footer {
+  max-width: 1184px;
+  margin: auto;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding: 92px 48px 24px 48px;
+}
+
+@media screen and (max-width: 800px) {
+  .footer {
+    padding: 92px 24px 24px 24px;
+  }
+}
+
+@media screen and (max-width: 703px) {
+  .footer {
+    display: block;
+    padding: 64px 16px 24px 16px;
+  }
+}
+
+@media screen and (max-width: 540px) {
+  .footer {
+    padding-left: 5vw;
+  }
+}

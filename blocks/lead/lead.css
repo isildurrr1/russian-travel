@@ -4,6 +4,7 @@
     margin: auto;
     margin-top: 56px;
     color: white;
+    font-size: 0;
 }
 
 @media screen and (max-width: 1024px) {

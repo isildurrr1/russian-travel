@@ -15,10 +15,12 @@
   }
 }
 
+
 @media screen and (max-width: 768px) {
   .photo-grid {
     grid-template-columns: repeat(auto-fit, 352px);
     grid-gap: 16px;
+    margin-top: 88px;
   }
 }
 
@@ -26,5 +28,6 @@
   .photo-grid {
     grid-template-columns: repeat(auto-fit, 288px);
     grid-gap: 12px;
+    margin-top: 64px;
   }
 }

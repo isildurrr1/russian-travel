@@ -1,6 +1,5 @@
 .header__lang-link {
   color: white;
-  font-family: 'Inter';
   font-weight: 400;
   font-size: 24px;
   line-height: 28px;
@@ -8,8 +7,7 @@
 }
 
 .header__lang-link:hover {
-  text-decoration: underline;
-  text-underline-offset: 4px;
+  opacity: 0.8;
 }
 
 @media screen and (max-width: 320px) {

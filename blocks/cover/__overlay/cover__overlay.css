@@ -1,6 +1,6 @@
 .cover__overlay {
   width: 100%;
-  background-color: #2A2C2F;;
+  background-color: #2A2C2F;
   grid-column: 1 / -1;
   grid-row: 1 / -1;
   opacity: 0.3;
